@@ -1,0 +1,397 @@
+/*****************tag selector****************/
+a{
+    text-decoration: none;
+   
+    color: white;
+
+}
+
+body{
+    margin: 0px;
+    
+
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+p{
+    line-height: 2;
+    font-family:'Cormorant', serif;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+
+}
+
+
+
+
+
+
+/**************** class selctors******************/
+
+.container1{
+    
+    background-color: #8B9A46;
+    height: 200px;
+    margin-top: 0px;
+    padding: 20px;
+    color: white;
+    
+}
+.container2{
+    background-color: #146356;
+    height: 600px;
+    margin-top: 0px;
+    padding-top:20px; 
+   
+   
+}
+.course{
+    
+    font-family: 'Cormorant', serif;
+    font-size: 30px;
+    color: white;
+    margin: 100px 0px 20px 250px;
+}
+
+.find{
+    
+    margin-left: 600px;
+    border: black;
+    margin-top: 20px;
+    
+}
+.btn {
+    background: #5DA30F;
+    background-image: -webkit-linear-gradient(top, #5DA30F, #5DA30F);
+    background-image: -moz-linear-gradient(top, #5DA30F, #5DA30F);
+    background-image: -ms-linear-gradient(top, #5DA30F, #5DA30F);
+    background-image: -o-linear-gradient(top, #5DA30F, #5DA30F);
+    background-image: linear-gradient(to bottom, #5DA30F, #5DA30F);
+    -webkit-border-radius: 23;
+    -moz-border-radius: 23;
+    border-radius: 23px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 19px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    
+  }
+  
+  .btn:hover {
+    background: #305BF0;
+    background-image: -webkit-linear-gradient(top, #305BF0, #305BF0);
+    background-image: -moz-linear-gradient(top, #305BF0, #305BF0);
+    background-image: -ms-linear-gradient(top, #305BF0, #305BF0);
+    background-image: -o-linear-gradient(top, #305BF0, #305BF0);
+    background-image: linear-gradient(to bottom, #305BF0, #305BF0);
+    text-decoration: none;
+  }
+
+  .search{
+      margin-left: 250px;
+      
+  }
+.Greenwish{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 22px;
+    margin-left: 50px;
+
+}
+   
+  
+
+.begining{
+    color: white;
+    padding: 40px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+
+}
+
+.container3{
+    color: black;
+
+
+}
+.container5{
+    background-color: black;
+    height: 500px;
+    color: white
+    
+}
+
+.container6{
+    background-color: #13D6A3;
+    height: 600px;
+    padding: 50px 0px 50px 40px;
+    color: black;
+   
+}
+
+.bebe{
+    position: absolute; left: 600px;
+   padding-top: 20px;
+   padding-right: 20px;
+   
+   
+}
+
+.bebe1{
+    margin-top : 200px;
+     position: absolute;left: 800px;
+   width: 400px;
+  
+    
+}
+
+.bebe2{
+   margin:100px 100px ;
+   width: 400px;
+   
+}
+
+.bebe3{
+    margin: 100px 100px;
+    width: 400px;
+    line-height: 2;
+
+
+}
+.bebe4{
+    width: 300px;
+    
+    position: absolute;left: 1080px;
+}
+
+.bebe5{
+    
+    width: 300px;
+    
+  position: absolute;left: 750px;
+}
+
+.bebe6{
+    width: 300px;
+   
+    position: absolute;left: 420px;
+    
+}
+
+.bebe7{
+   width: 300px;
+    
+    margin-left: 90px;
+
+}
+.bebe8{
+    padding: 50px;
+    position: absolute;left: 1100px;
+   
+}
+
+.bebe9{
+    padding: 50px;
+    position: absolute;left: 750px;
+   
+}
+
+.bebe10{
+    padding: 50px;
+    position: absolute;left: 350px;
+   
+
+}
+
+.bebe11{
+    padding: 50px;
+    
+}
+.bebe12{
+    line-height: 2;
+   
+}
+
+.bebe14{
+    width: 330px;
+    position: absolute; left: 710px;
+   
+}
+.bebe15{
+    width: 330px;
+    position: absolute;left: 360px;
+}
+
+.bebe16{
+    width: 300px;
+}
+.bebe17{
+    width: 350px;
+    
+    position: absolute; left: 1070px;
+    
+}
+.open{
+    color: #146356;
+    margin-bottom: 0px;
+
+}
+
+.open:hover{
+    color: #613EF0;
+}
+    
+.image1{
+    height: 300px;
+    width: 500px;
+    
+    
+}
+.image2{
+    width: 500px;
+    height: 300px;
+   
+    
+}
+.image3{
+    width: 500px;
+}
+
+.image4{
+    width:300px;
+   
+    
+}
+.image5{
+    width: 300px;
+    height: 185px;
+}
+.image6{
+    width: 300px;
+    height: 185px;   
+}
+.image7{
+    width: 300px;
+    height: 185px;
+}
+.why{
+    color: #146356;
+    margin-bottom: 0px;
+}
+.why:hover{
+    color: #613EF0;
+}
+
+.Apply{
+    color: #146356;
+    margin-bottom: 0px;
+}
+.Apply:hover{
+    color: #613EF0;
+}
+
+
+.gra{
+    color: #146356;
+    margin-bottom: 0px;
+}
+.gra:hover{
+    color: #613EF0;
+
+}
+
+.stu{ 
+    color: #146356;
+    margin-bottom: 0px;
+}
+.stu:hover{
+    color: #613EF0;
+}
+
+
+.acc{ color: #146356;
+    margin-bottom: 0px;
+}
+.acc:hover{
+    color: #613EF0;
+}
+
+.int{ color: #146356;
+    margin-bottom: 0px;
+}
+
+.int:hover{
+    color: #613EF0;
+}
+.comp{
+    width: 350px;
+    height: 225px;
+    
+}
+
+.engineer{
+    width: 350px;
+    
+}
+
+.engineer:hover{
+    color: goldenrod;
+}
+.science{
+    width: 340px;
+}
+
+.infra{
+    width: 310px;
+    height: 225px;
+}
+.computer{
+    color: black;
+    margin-bottom: 0px;
+}
+.computer:hover{
+    color:#A32807;
+}
+
+.inf{
+    color: black;
+    margin-bottom: 0px;
+}
+.inf:hover{
+    color:#A32807;
+}
+
+.eng{
+color: black;
+margin-bottom: 0px;
+}
+.eng:hover{
+    color:#A32807;
+}
+.sci{
+    color: black;
+    margin-bottom: 0px;
+}
+.sci:hover{
+    color:#A32807;
+}
+.foot-link{
+    margin: 10px 20px;
+}
+.foot-link:hover{
+    color: gold;
+}
+.header-link{
+    margin-right:  60px;
+}
+
+.header-link:hover{
+    color: gold;
+}
